@@ -9,3 +9,4 @@ Credits to:
 
 Note:
 - Add background images 
+- Handle potential empty text form error
